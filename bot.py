@@ -15,8 +15,8 @@ import csv
 import schedule
 import time
 
-BOT_TOKEN = os.getenv("MTI3NTE1NzQ4MTQ2Njg4ODQzNw.G1WEm1.xgwW65y28Po5bNVKVPwrTxsIeVSrZD3KaiYG6c")
-CHANNEL_ID = 1275160630025916601
+BOT_TOKEN = os.getenv("YOUR-TOKEN")
+CHANNEL_ID = #CHANNEL ID
 MAX_SESSION_TIME_MINUTES = 45
 
 @dataclass
